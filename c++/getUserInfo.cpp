@@ -1,5 +1,5 @@
 /*
- * Example of interacting with the Okta API using C++ 
+ * Example of interacting with the Okta API using C 
  *
  * Add your token and your companies okta url
  *
